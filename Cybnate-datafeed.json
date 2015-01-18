@@ -26,31 +26,31 @@
                     "rate" : 0.0000
                 },  
                 {
-                    "blocks" : 65536
+                    "blocks" : 65536,
                     "rate" : 0.0000
                 },                
                                 {
-                    "blocks" : 131072
+                    "blocks" : 131072,
                     "rate" : 0.0000
                 },                
                                 {
-                    "blocks" : 262144
+                    "blocks" : 262144,
                     "rate" : 0.0000
                 },                
                                 {
-                    "blocks" : 524288
+                    "blocks" : 524288,
                     "rate" : 0.0000
                 },                
                                 {
-                    "blocks" : 524288
+                    "blocks" : 1048576,
                     "rate" : 0.0000
                 },                
                                 {
-                    "blocks" : 524288
+                    "blocks" : 2097152,
                     "rate" : 0.0000
                 },                
                                 {
-                    "blocks" : 524288
+                    "blocks" : 4194304,
                     "rate" : 0.0000
                 }
             ]
