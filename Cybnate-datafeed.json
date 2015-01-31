@@ -2,7 +2,7 @@
     "custodians" : [
         {
             "address" : "BTgryZQ1dQNJYMjm74K3ajdRnDfsCjh3c3",
-            "amount" : 499.0 
+            "amount" : 499.0
         }
     ],
     "parkrates" : [
@@ -11,43 +11,43 @@
             "rates" : [
                 {
                     "blocks" : 8192,
-                    "rate" : 0.0000
+                    "rate" : 0.0
                 },
                 {
                     "blocks" : 16384,
-                    "rate" : 0.0000
+                    "rate" : 0.0
                 },
                 {
                     "blocks" : 32768,
-                    "rate" : 0.0000
-                },  
+                    "rate" : 0.0
+                },
                 {
                     "blocks" : 65536,
-                    "rate" : 0.0000
-                },                
-                                {
+                    "rate" : 0.0
+                },
+                {
                     "blocks" : 131072,
-                    "rate" : 0.0000
-                },                
-                                {
+                    "rate" : 0.0
+                },
+                {
                     "blocks" : 262144,
-                    "rate" : 0.0000
-                },                
-                                {
+                    "rate" : 0.0
+                },
+                {
                     "blocks" : 524288,
                     "rate" : 0.00996821
-                },                
-                                {
+                },
+                {
                     "blocks" : 1048576,
                     "rate" : 0.01993642
-                },                
-                                {
+                },
+                {
                     "blocks" : 2097152,
-                    "rate" : 0.0000
-                },                
-                                {
+                    "rate" : 0.0
+                },
+                {
                     "blocks" : 4194304,
-                    "rate" : 0.0000
+                    "rate" : 0.0
                 }
             ]
         }
