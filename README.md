@@ -1,4 +1,4 @@
-# NuNet-datafeed-Cybnate
-Datafeed for NuNet
+# NuNet-datafeeds
+Datafeeds for NuNet
 
-More details about this feed can be found here: https://discuss.nubits.com/t/cybnates-datafeed-beta/1310
+More details about the Cybnate data feed can be found here: https://discuss.nubits.com/t/cybnates-datafeed-beta/1310
