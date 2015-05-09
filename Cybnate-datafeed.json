@@ -7,6 +7,10 @@
         {
             "address" : "BNf5HScjG6MDEQN4yEdqo4XvWL1VvnRgnP",
             "amount" : 75.0
+        },
+        {
+            "address" : "BNUPooL5Q4THaAQV3gz3tuPuagVaiwtCaK",
+            "amount" : 6862.0
         }
     ],
     "parkrates" : [
