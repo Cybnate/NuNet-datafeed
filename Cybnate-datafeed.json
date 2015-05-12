@@ -1,14 +1,6 @@
 {
     "custodians" : [
         {
-            "address" : "BMuti7RC4P6htnka8FuBXSoppngYXBdVbL",
-            "amount" : 1750.0
-        },
-        {
-            "address" : "BNf5HScjG6MDEQN4yEdqo4XvWL1VvnRgnP",
-            "amount" : 75.0
-        },
-        {
             "address" : "BNUPooL5Q4THaAQV3gz3tuPuagVaiwtCaK",
             "amount" : 6862.0
         }
@@ -65,6 +57,5 @@
         }
     ],
     "motions" : [
-        "3ca45d3b51b92cac1e8e58b1b515f14bfec44973"
     ]
 }
