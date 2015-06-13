@@ -1,5 +1,13 @@
 {
     "custodians" : [
+        {
+            "address" : "BHQJN5NnDimvTC9Md6a3Lc8sNkHGiizTMo",
+            "amount" : 1803.26
+        },
+        {
+            "address" : "BNUPooLfaBVhQz5CmFF1XFqkQ6dfoiFwvp",
+            "amount" : 1550.0
+        }
     ],
     "parkrates" : [
         {
