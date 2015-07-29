@@ -1,10 +1,6 @@
 {
     "custodians" : [
         {
-            "address" : "BRyTGZz1pjgjRZDiVmuogZ7awPkdaXCVNd",
-            "amount" : 614.0
-        },
-        {
             "address" : "BNUpooLoWft9JKeYm5vy1GVLFzVhfS8GeR",
             "amount" : 1125.0
         }
