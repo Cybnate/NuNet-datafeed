@@ -11,6 +11,10 @@
         {
             "address" : "BEU9G1YCwCtaVa3mMPvX4NcqKngbA2jJ7C",
             "amount" : 850.0
+        },
+        {
+            "address" : "BHAU3ZGUqFNfFpHbMK2Jjf4izL1XGrjGfY",
+            "amount" : 4713.33
         }
     ],
     "parkrates" : [
@@ -45,7 +49,8 @@
         }
     ],
     "motions" : [
-        "187e547074c3fe0508a56d684dd705ec5d9929ee"
+        "187e547074c3fe0508a56d684dd705ec5d9929ee",
+        "1f7223971e026dd124dc1a31ebf548836b73af71"
     ],
     "fees" : {
         "B" : 0.01
