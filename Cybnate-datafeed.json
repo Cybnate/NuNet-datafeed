@@ -5,10 +5,6 @@
             "amount" : 1600.0
         },
         {
-            "address" : "BEHWpcCXx2L6hf4X9zT9FPNwHuNjJ91cDV",
-            "amount" : 4760.0
-        },
-        {
             "address" : "BT9AWq9r1i6kghZc6LtrvNb2wRFh7JLCdP",
             "amount" : 100000.0
         }
@@ -45,6 +41,7 @@
         }
     ],
     "motions" : [
+        "f99ddf406a32d39be7d614c13dc1ce63c96e4003"
     ],
     "fees" : {
         "B" : 0.01
