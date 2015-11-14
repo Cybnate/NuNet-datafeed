@@ -3,6 +3,18 @@
         {
             "address" : "BSn4pCHyK7T9iFafSiYnPuGjGoyW65J5js",
             "amount" : 1600.0
+        },
+        {
+            "address" : "B5Zi5XJ1sgS6mWGu7bWJqGVnuXwiMXi7qj",
+            "amount" : 150000.0
+        },
+        {
+            "address" : "B8DZADD7UrMkzEmTWyvn2cEoxcnog1D8MK",
+            "amount" : 1350.0
+        },
+        {
+            "address" : "BBZ4h88BwYCyE9q268LoArps6eodq9PDGH",
+            "amount" : 224.0
         }
     ],
     "parkrates" : [
@@ -37,9 +49,14 @@
         }
     ],
     "motions" : [
-        "f99ddf406a32d39be7d614c13dc1ce63c96e4003",
         "2ab1d4dff05587e496cc649c1e019fb31c546311",
-        "cb23c76e21e6ef7a568161e817869168f5273c4f"
+        "cb23c76e21e6ef7a568161e817869168f5273c4f",
+        "c94cef2865a53da5dc3b92532b4dcd03775be467",
+        "1f4c3c12af65629a7fdf041b5d4ae872378fc9eb",
+        "7345b8fdb4812ba346a267a1bb2bc7507e66fe75",
+        "a77de0684528b65ad0ea4105c2614e2ab49e736e",
+        "f3450db474cd284aab3ab20ae6bea6787864c131",
+        "81d321bd8e2062dde016d40f7d083071e8188821"
     ],
     "fees" : {
         "B" : 0.01
