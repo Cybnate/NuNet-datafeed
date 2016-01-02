@@ -7,14 +7,6 @@
         {
             "address" : "BAwbootKP1sWHhuhnYGfaf9nMLfF7LFdVF",
             "amount" : 4760.0
-        },
-        {
-            "address" : "BNUPooLfaBVhQz5CmFF1XFqkQ6dfoiFwvp",
-            "amount" : 4100.0
-        },
-        {
-            "address" : "BRz87ebxSypVwdVu8GZuYG4FFxTnbwrfkQ",
-            "amount" : 100.0
         }
     ],
     "parkrates" : [
@@ -49,7 +41,6 @@
         }
     ],
     "motions" : [
-        "e3966c4205ebb2966110218435ad21d9c5c8f2c0"
     ],
     "fees" : {
         "B" : 0.01
