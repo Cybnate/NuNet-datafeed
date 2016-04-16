@@ -3,6 +3,14 @@
         {
             "address" : "BC84Af1QuytYF37yTd1hf34zRKnLWTJoTA",
             "amount" : 750.0
+        },
+        {
+            "address" : "BDroid6QBUXXt7QFD51BixZzmEgwmTBMNX",
+            "amount" : 16000.0
+        },
+        {
+            "address" : "BFRhngri9DLUnatcnhSJrZDk5J7u3Mhu5H",
+            "amount" : 440.0
         }
     ],
     "parkrates" : [
@@ -19,11 +27,11 @@
                 },
                 {
                     "blocks" : 65536,
-                    "rate" : 0.0
+                    "rate" : 0.00623013
                 },
                 {
                     "blocks" : 131072,
-                    "rate" : 0.0
+                    "rate" : 0.02492053
                 },
                 {
                     "blocks" : 262144,
@@ -39,6 +47,7 @@
     "motions" : [
     ],
     "fees" : {
-        "B" : 0.01
+        "B" : 0.01,
+        "S" : 1.0
     }
 }
