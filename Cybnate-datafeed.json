@@ -13,7 +13,66 @@
             "amount" : 328.0
         },
         {
+            "address" : "BLiquidBuES84tcMsSC2Z6Cebus6Kf7B5x",{
+    "custodians" : [
+        {
+            "address" : "BDroid6QBUXXt7QFD51BixZzmEgwmTBMNX",
+            "amount" : 16000.0
+        },
+        {
+            "address" : "BJ8vw82j8CTQwzi4QLocyddkgVtPkrcHXz",
+            "amount" : 4000.0
+        },
+        {
             "address" : "BLiquidBuES84tcMsSC2Z6Cebus6Kf7B5x",
+            "amount" : 631.0
+        },
+        {
+            "address" : "B9gXptkoqAApF3AFrQyhUbhSzvuEudxupt",
+            "amount" : 90.0
+        }
+    ],
+    "parkrates" : [
+        {
+            "unit" : "B",
+            "rates" : [
+                {
+                    "blocks" : 16384,
+                    "rate" : 0.00001246
+                },
+                {
+                    "blocks" : 32768,
+                    "rate" : 0.00186904
+                },
+                {
+                    "blocks" : 65536,
+                    "rate" : 0.00747616
+                },
+                {
+                    "blocks" : 131072,
+                    "rate" : 0.02990463
+                },
+                {
+                    "blocks" : 262144,
+                    "rate" : 0.0
+                },
+                {
+                    "blocks" : 524288,
+                    "rate" : 0.0
+                }
+            ]
+        }
+    ],
+    "motions" : [
+        "392b89104ac63202baa11df9b4844db5f91532ed",
+        "3867806079bb45338c233ebd3dd364f40df69334",
+        "9d3538c6e95e0cfeae7afeeb5e82874a25040276"
+    ],
+    "fees" : {
+        "B" : 0.01,
+        "S" : 1.0
+    }
+}
             "amount" : 631.0
         }
     ],
