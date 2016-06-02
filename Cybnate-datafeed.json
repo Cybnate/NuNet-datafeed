@@ -37,7 +37,9 @@
         }
     ],
     "motions" : [
-        "6d76ce3ff163a3bd8cd8f43b7126a7670ec9d28a"
+        "6d76ce3ff163a3bd8cd8f43b7126a7670ec9d28a",
+        "28ad569f5224884fc1247bd9a18bf96bf8b8f0ab",
+        "9958b55a4f6473809039c41fa3ee407718cde2db"
     ],
     "fees" : {
         "B" : 0.01,
